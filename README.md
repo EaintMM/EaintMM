@@ -1,6 +1,6 @@
 # Hi, I'm Eaint 👋
 
-### Data Analyst | Data & Business Analytics
+### Data Analytics | Data Science | Business Intelligence
 
 I'm a Computer and Data Science student based in Bangkok, Thailand, currently pursuing a double-degree program with **Siam University and La Trobe University**.
 
@@ -46,6 +46,27 @@ Includes data collection, data cleaning, exploratory analysis, statistical analy
 
 [View Project →](https://github.com/EaintMM/Screentime-vs-GPA) · [Live Dashboard →](https://screentime-vs-gpagit-bqedtmztprmkcpgcj6dcxc.streamlit.app)
 
+## 🤖 Additional Projects
+
+### 🪖 Motorcyclist Helmet Detection System
+
+**Python · MATLAB · YOLO · Computer Vision · Gaussian Mixture Model**
+
+Developed a computer vision system for detecting motorcycles, helmets, and license plates from CCTV footage. The project involved data annotation, YOLO-based object detection, image processing, and model evaluation.
+
+**1st Prize — 2019 University Outstanding Project Awards, AI & Image Processing**
+
+[View Project →](https://github.com/EaintMM/Motorcyclist-Helmet-Detection-using-YOLO-Object-Detection)
+
+---
+
+### 👕 Virtual Clothes Try-On System
+
+**Python · Tkinter · Flask · Computer Vision**
+
+Developed a virtual clothes try-on application using Python, with a Tkinter-based interface and Flask for web application functionality.
+
+[View Project →](https://github.com/EaintMM/Virtual-Clothes-Try-on-System)
 ---
 
 ### 📊 Sales Performance Analytics & Dashboard 🚧
