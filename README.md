@@ -24,6 +24,22 @@ I'm particularly interested in **turning data into actionable business insights*
 
 ## 📊 Featured Projects
 
+### 💻 My Computer Analytics
+
+**Python · Pandas · NumPy · PostgreSQL · Supabase · SQL · Google Data Studio**
+
+An end-to-end business analytics platform developed for a real multi-branch computer retail and service business. The project transforms operational data into centralized business metrics and interactive management dashboards.
+
+- Built a Python-based ETL workflow for data preparation, transformation, validation, and loading.
+- Designed a relational database covering products, suppliers, branches, purchases, sales, and inventory.
+- Developed SQL analytical views for sales, profitability, inventory, product, and branch-level performance.
+- Built interactive dashboards for executive performance, inventory, product, and sales analysis.
+- Created a synthetic-data version for public demonstration while protecting confidential business information.
+
+**[View Repository →](https://github.com/EaintMM/MyComputerAnalytics)** · **[Live Dashboard →](https://datastudio.google.com/reporting/502615e6-9bfd-4b60-87e2-1b3b6ae9519c)**
+
+---
+
 ### 📉 Customer Churn Analysis
 
 **Python · Pandas · NumPy · Matplotlib · Seaborn · EDA · Diagnostic Analytics**
